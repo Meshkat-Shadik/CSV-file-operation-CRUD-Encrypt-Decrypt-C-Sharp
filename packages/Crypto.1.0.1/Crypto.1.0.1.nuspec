@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Crypto</id>
+    <version>1.0.1</version>
+    <title>Crypto</title>
+    <authors>Michael Trotter</authors>
+    <owners>Michael Trotter</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>CryptoAPI library for using PEM key format in .Net apps. Based on Christian Etter's CryptoAPI wrapper.</description>
+    <summary />
+    <copyright>Copyright 2013</copyright>
+    <dependencies />
+    <references>
+      <reference file="Crypto.dll" />
+    </references>
+  </metadata>
+</package>

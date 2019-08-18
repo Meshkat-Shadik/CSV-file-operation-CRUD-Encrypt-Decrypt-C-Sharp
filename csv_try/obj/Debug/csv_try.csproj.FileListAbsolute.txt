@@ -1,0 +1,13 @@
+I:\Programming\C#\csv_try\csv_try\bin\Debug\csv_try.exe.config
+I:\Programming\C#\csv_try\csv_try\bin\Debug\csv_try.exe
+I:\Programming\C#\csv_try\csv_try\bin\Debug\csv_try.pdb
+I:\Programming\C#\csv_try\csv_try\obj\Debug\csv_try.csprojResolveAssemblyReference.cache
+I:\Programming\C#\csv_try\csv_try\obj\Debug\csv_try.Form1.resources
+I:\Programming\C#\csv_try\csv_try\obj\Debug\csv_try.Properties.Resources.resources
+I:\Programming\C#\csv_try\csv_try\obj\Debug\csv_try.csproj.GenerateResource.Cache
+I:\Programming\C#\csv_try\csv_try\obj\Debug\csv_try.exe
+I:\Programming\C#\csv_try\csv_try\obj\Debug\csv_try.pdb
+I:\Programming\C#\csv_try\csv_try\bin\Debug\Crypto.dll
+I:\Programming\C#\csv_try\csv_try\obj\Debug\csv_try.show.resources
+I:\Programming\C#\csv_try\csv_try\obj\Debug\csv_try.Form2.resources
+I:\Programming\C#\csv_try\csv_try\obj\Debug\csv_try.richtextbox.resources
